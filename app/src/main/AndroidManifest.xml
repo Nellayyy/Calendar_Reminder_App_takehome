@@ -21,7 +21,7 @@
         </activity>
         <activity
             android:label="@string/app_name"
-            android:name=".CalendarActivity" >
+            android:name=".Calendar" >
         </activity>
     </application>
 
